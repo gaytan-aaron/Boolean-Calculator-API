@@ -1,0 +1,11 @@
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\CalculadoraBooleanaT7.exe
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\appsettings.Development.json
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\appsettings.json
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\CalculadoraBooleanaT7.dll
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\CalculadoraBooleanaT7.deps.json
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\CalculadoraBooleanaT7.runtimeconfig.json
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\CalculadoraBooleanaT7.pdb
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\Microsoft.AspNetCore.JsonPatch.dll
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\Newtonsoft.Json.dll
+Y:\Work\Work APIs\EDProyect\CalculadoraBooleanaT7\publish\Newtonsoft.Json.Bson.dll
